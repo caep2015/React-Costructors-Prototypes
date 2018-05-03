@@ -23,4 +23,4 @@ as you pass one, a new one will pop up and give you
 the criteria needed to make it pass. 
 
 Once complete, your console should look like the following:
-![Screenshot:](https://github.com/carlotapearl/React-Constructors-Prototypes-Daily-Project/blob/master/testspassed.png)
+![Screenshot:](https://github.com/carlotapearl/React-Costructors-Prototypes-Daily-Project/blob/master/testspassed.png)
